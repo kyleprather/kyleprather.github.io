@@ -8,4 +8,6 @@ remote_theme: pmarsceill/just-the-docs
 
 #hopefully resolve weird newline bug
 kramdown:
+  parse_block_html: true
   hard_wrap: false
+  input: GFM
