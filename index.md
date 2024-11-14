@@ -7,13 +7,16 @@
 - [CSC 403 -- Software Engineering](/courses/SE/index.md)
 - [CSC 405 & 406 -- Capstone](/courses/Capstone/index.md)
 
+
 - [CSC 47x -- Artificial Intelligence](/courses/AI/index.md)
 - [CSC 499 -- Machine Learning](/courses/ML/index.md)
 - [CSC 499 -- Natural Language Processing](/courses/NLP/index.md)
 - [CSC 499 -- Computer Vision](/courses/CV/index.md)
 
+
 - [CSC 47x -- Graphics](/courses/Graphics/index.md)
 - [CSC 499 -- Graphics 2 -- Applied Look and Lighting for Industry](/courses/Graphics2/index.md)
+
 
 - [CSC 47x -- Algorithms and Programming Patterns for Games](/courses/Intro/index.md)
 - [CSC 47x -- Engine-Based Game Development](/courses/Intro/index.md)
