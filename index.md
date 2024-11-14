@@ -1,14 +1,10 @@
----
-title: "Home Page"
-layout: default
----
-
 ## Courses
 - [CSC 13x -- Introduction to Computer Science](/courses/Intro/index.md)
 - [CSC 220 -- Data Structures and Algorithms](/courses/DSA/index.md)
 - [CSC 325 -- Advanced Data Structures and Algorithms](/courses/Intro/index.md)
 - [CSC 364 -- Computer Architecture](/courses/Architecture/index.md)
 - [CSC 403 -- Software Engineering](/courses/SE/index.md)
+- [CSC 405 & 406 -- Capstone](/courses/Capstone/index.md)
 - [CSC 405 & 406 -- Capstone](/courses/Capstone/index.md)
 
 - [CSC 47x -- Artificial Intelligence](/courses/AI/index.md)
