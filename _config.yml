@@ -5,3 +5,6 @@ theme: minima  # You can start with Minima or switch later
 
 #set the sidebar layout
 remote_theme: pmarsceill/just-the-docs
+
+#hopefully resolve weird newline bug
+hard_wrap: false
