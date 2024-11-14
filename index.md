@@ -1,3 +1,7 @@
+---
+title: "Home Page"
+layout: default
+---
 
 ## Courses
 - [CSC 13x -- Introduction to Computer Science](/courses/Intro/index.md)
