@@ -1,3 +1,7 @@
-title: "Kyle Prather's Homepage"
+#set the title, description, and minima theme
+title: "Kyle Prather's Resources"
 description: "Courses, Research, Builds, and Essays"
 theme: minima  # You can start with Minima or switch later
+
+#set the sidebar layout
+remote_theme: pmarsceill/just-the-docs
