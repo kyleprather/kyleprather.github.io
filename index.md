@@ -11,7 +11,7 @@
 - [CSC 499 -- Computer Vision](/courses/CV/index.md)<br /><br />
 - [CSC 47x -- Graphics](/courses/Graphics/index.md)
 - [CSC 499 -- Graphics 2 -- Applied Look and Lighting for Industry](/courses/Graphics2/index.md)<br /><br />
-- [CSC 4xx -- Human Computer Interaction]<br /><br />
+- [CSC 4xx -- Human Computer Interaction](/courses/HCI/index.md)<br /><br />
 - [CSC 47x -- Algorithms and Programming Patterns for Games](/courses/Intro/index.md)
 - [CSC 47x -- Engine-Based Game Development](/courses/Intro/index.md)<br>
 - [GAME 295 -- Game Design and History](/courses/Intro/index.md)
